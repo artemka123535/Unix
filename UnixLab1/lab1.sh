@@ -78,5 +78,5 @@ else
 	exit 9
 fi
 
-echo "Succesfull"
+echo "Successful"
 exit 0
